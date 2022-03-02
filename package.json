@@ -7,9 +7,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["react", "component", "react-app"],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juniorcoder2008/create-react-component.git"
+  },
   "dependencies": {
     "chalk": "^5.0.0",
     "fs": "^0.0.1-security",
